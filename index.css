@@ -6,10 +6,9 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    margin: 0;
-    height: 100vh;
-    overflow: hidden;
     background: url(https://wp-s.ru/wallpapers/9/14/427099169460031/otrazhenie-gorodskix-sumerek-v-ozere.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h4 {
